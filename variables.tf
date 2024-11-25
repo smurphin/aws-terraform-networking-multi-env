@@ -1,8 +1,8 @@
 variable region {}
 
-variable s3_bucket {}
+#variable s3_bucket {}
 
-variable s3_key {}
+#variable s3_key {}
 
 variable vpc_cidr {}
 
